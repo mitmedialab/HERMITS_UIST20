@@ -1,0 +1,4 @@
+﻿"Bearing Inner Diameter"= 3.1mm
+"Bearing Outer Diameter" = 7.25mm
+"ArmLength" = 25mm
+"ArmLength2" = 30mm

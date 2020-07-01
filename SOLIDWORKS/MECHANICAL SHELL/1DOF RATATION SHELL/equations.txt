@@ -1,0 +1,4 @@
+﻿"ScrewLength"= 75
+"ScrewDiameter"= 12
+"HelixPitch"= 10
+"LeadSize"= 3
