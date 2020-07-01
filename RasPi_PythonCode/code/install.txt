@@ -1,0 +1,8 @@
+$ sudo apt install libbluetooth3-dev libglib2.0 libboost-python-dev libboost-thread-dev
+$ sudo apt install python3-pip
+$ cd /usr/lib/arm-linux-gnueabihf/
+$ sudo ln libboost_python-py35.so libboost_python-py34.so
+$ sudo pip3 install gattlib
+$ sudo pip3 install bluepy
+$ sudo systemctl daemon-reload
+$ sudo service bluetooth restart
