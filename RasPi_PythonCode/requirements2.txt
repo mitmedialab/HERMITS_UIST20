@@ -20,7 +20,7 @@ pylint==2.3.1
 pyOpenSSL==19.0.0
 service-identity==18.1.0
 six==1.12.0
-Twisted==19.7.0
+Twisted==22.10.0
 typed-ast==1.4.0
 wrapt==1.11.2
 zope.interface==4.6.0
